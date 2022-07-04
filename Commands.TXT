@@ -1,0 +1,5 @@
+npm init
+npm i express
+npm i cors
+npm i jsonwebtoken
+npm i universal-cookie
